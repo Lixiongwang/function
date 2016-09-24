@@ -18,6 +18,7 @@ function my_dir($dir){
     }
  }
 //以下是测试
- $q_array=my_dir('E:/115/');
+ $q_array=my_dir('E:/115/3234/app');
+ echo 11111111111111;
  var_dump($q_array);
 ?>
